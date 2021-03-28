@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Danilo S. Prieto",
+    "label": "Web Developer",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQG5D7-ehB531A/profile-displayphoto-shrink_800_800/0/1613142573893?e=1622678400&v=beta&t=3hKuhXinzodUUDno8MawayJaqJMycJfviKR3LA2YsSo",
+    "email": "danilo.s.prieto@gmail.com",
+    "phone": "+54 3755 66 29 08",
+    "website": "https://daniloprieto.github.io",
+    "summary": "I am developer in Computer Science.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "3360",
+      "city": "Obera",
+      "countryCode": "ARG",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "daniloprieto",
+        "url": "http://github.com/daniloprieto"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "daniloprieto",
+        "url": "https://www.linkedin.com/in/danilo-prieto/"
       }
     ]
   },
@@ -61,33 +51,30 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "HTML",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "ANGULAR",
+        "PHP",
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Linux",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "UTN, Córdoba, ARG.",
+      "area": "PHP & MySQL",
+      "studyType": "",
+      "startDate": "2020",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
       ]
