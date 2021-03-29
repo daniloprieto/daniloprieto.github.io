@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Danilo S. Prieto",
-    "label": "Web Developer",
+    "label": "Frontend Developer",
     "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQG5D7-ehB531A/profile-displayphoto-shrink_800_800/0/1613142573893?e=1622678400&v=beta&t=3hKuhXinzodUUDno8MawayJaqJMycJfviKR3LA2YsSo",
     "email": "danilo.s.prieto@gmail.com",
     "phone": "+54 3755 66 29 08",
@@ -29,20 +29,23 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "new technologies",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "angular",
+        "node"
       ]
     },
     {
-      "name": "data mining",
+      "name": "cloud services",
       "keywords": [
+        "firebase"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software development",
       "keywords": [
+        "javascript",
+        "frameworks"
       ]
     }
   ],
@@ -56,7 +59,9 @@
         "Javascript",
         "ANGULAR",
         "PHP",
-        "Java"
+        "Laravel",
+        "Java",
+        "Linux"
       ]
     },
     {
@@ -64,11 +69,23 @@
       "level": "",
       "keywords": [
         "Linux",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Postman",
+        "Visual Studio Code"
       ]
     }
   ],
   "education": [
+     {
+      "institution": "Platzi",
+      "area": "Frontend developer from Angular",
+      "studyType": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "gpa": "",
+      "courses": [
+      ]
+    },
     {
       "institution": "UTN, Córdoba, ARG.",
       "area": "PHP & MySQL",
@@ -82,74 +99,57 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Carrito Srl",
+      "position": "Fullstack Developer",
+      "website": "carrito.com.ar",
+      "startDate": "2020",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Head of online presence for Carrito, planning and design for Api Rest and Frontend",
+      "highlights": ["Head of online presence for Carrito, planning and design for Api Rest and Frontend"]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Oruga Multimedial",
+      "position": "Fulstack Developer",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Head of projects for Carrito, planning and design, management"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Iglesia Gilgal",
+      "website": "http://iglesiagilgal.ml",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "startDate": "2019",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead developer for ORG page",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Design and construction page",
+        "Design and develop of radio station software"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
+      "name": "",
       "reference": ""
     }
   ]
